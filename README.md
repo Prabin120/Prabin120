@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prabin120
-- 👀 I’m interested in Mobile App and Machine Learning
-- 🌱 I’m currently learning MCA from St. Anthony's College
-- 💞️ I’m looking to collaborate on Mobile App development
+- 👀 I’m interested in Python Development and Data Science
+- 🌱 I have passed out MCA from St. Anthony's College
+- 💞️ I’m looking to collaborate on Python Development
 - 📫 How to reach me prabinsharma120@gmail.com
 
 <!---
